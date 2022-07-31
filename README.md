@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **PHP and JavaScript frameworks**
 
-- 💬 Ask me about **Everything related to programming**
+- 💬 Ask me about **everything related to programming**
 
 - 📫 How to reach me **salahhaddane@gmail.com**
 
-- 👨‍💻 About me **a career switcher from physics to coding**
+- 👨‍💻 About me: **I am a career switcher from physics to coding**
 
-- ⚡ Fun fact **< I am funny />**
+- ⚡ Fun fact **< I am funny /> and google everything**
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
