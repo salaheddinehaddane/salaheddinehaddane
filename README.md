@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salaheddinehaddane&label=Profile%20views&color=0e75b6&style=flat" alt="salaheddinehaddane" /> </p>
 
-- 🔭 I’m currently working on **a web application using react and node.js**
+- 🔭 I’m currently working as a **Full-Stack web developer using Laravel and Vue.js frameworks** with a stronger focus on backend development.
 
-- 🌱 I’m currently learning **PHP and JavaScript frameworks**
+- 🌱 I’m continuously advancing my expertise in PHP and JavaScript frameworks, with a strong focus on improving my backend engineering skills, optimizing queries, writing clean code, and applying design patterns.
 
 - 💬 Ask me about **everything related to programming**
 
